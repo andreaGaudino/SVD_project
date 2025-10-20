@@ -1,5 +1,6 @@
-****Singular Value Decomposition for images and audio tracks****
+# Spectral Clustering Project
 
-This work was completed within coursework at Politecnico di Torino, Computational linear algebra for large scale problems, year 2024/2025
+This project, developed for the *Computational Linear Algebra for Large Scale Problems* course (A.Y. 2024/25), implements and compares clustering algorithms on two datasets.
+The focus is on **Spectral Clustering**, analyzed alongside **K-Means**, **Hierarchical**, and **DBSCAN** methods.
 
-Authors: Andrea Gaudino, Lorenzo Grivet Talocia
+*Authors: Andrea Gaudino, Lorenzo Grivet Talocia*
