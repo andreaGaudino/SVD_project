@@ -5,6 +5,5 @@ Starting from a high-quality image and a short voice recording, the study demons
 
 This project was developed as part of the Computational Linear Algebra for Large Scale Problems course at Politecnico di Torino (A.Y. 2024/25).
 
-[Link a GitHub](https://github.com/lorenzoGrivet/SVD_project)
 
 *Authors: Andrea Gaudino, Lorenzo Grivet Talocia*
